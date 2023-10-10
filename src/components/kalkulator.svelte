@@ -47,7 +47,7 @@ function handleClick() {
     <br>
     
     {#if result !== undefined}
-        <p2>Wynik to: {result}</p2>
+        <p>Wynik to: {result}</p>
     {/if}
   </main>
 
